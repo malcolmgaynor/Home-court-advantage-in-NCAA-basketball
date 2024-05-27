@@ -6,5 +6,5 @@ In this project, Parker and I analyzed the differences in home court advantages 
 
 We clustered the 14 Big Ten venues for the past three seasons. into three different clusters. 13 of the 14 venues were grouped into the same cluster for all three seasons, which supports the idea that our clusters are relatively stable classifications of how basketball venues impact away team statistical performance. 
 
-This repository includes our Google Slides presentation sharing the details behind our process, our one page executive summary of results, and the code (written in R) used to create our models and do the analysis. If you have any questions or are interested in our process, data, models, code, or analysis, please do not hesitate to reach out!
+This repository includes our Google Slides presentation sharing the details behind our process, our one page executive summary of results, the code (written in R) used to create our models and do the analysis, and the data we considered. If you have any questions or are interested in our process, data, models, code, or analysis, please do not hesitate to reach out!
 
