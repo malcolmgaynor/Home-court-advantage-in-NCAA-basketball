@@ -1,6 +1,6 @@
 # Home-court-advantage-in-NCAA-basketball
 
-Project with Parker Gibbons, as a part of the Stat 306: Multivariate Sports Analytics class with Professor Bradley A. Hartlaub at Kenyon College. February 23rd, 2024
+Project with Parker Gibbons, as a part of the Stat 306: Multivariate Sports Analytics class with Professor Bradley A. Hartlaub at Kenyon College. February 23rd, 2024.
 
 In this project, Parker and I analyzed the differences in home court advantages across all 14 Big Ten venues from the past three seasons (2021, 2022, and 2023). We considered whether or not there were differences in how playing at different venues impacted the average statistics for the away team using multivariate analysis of variance, AKA MANOVA. Using MANOVA, we rejected the null hypothesis, concluding that the evidence supports that there is SOME difference in at least one average statistic at at least one different Big Ten venue. However, this doesn't tell us much, so we continued on to consider K-means clustering in an attempt to group and classify Big Ten basketball venues. 
 
